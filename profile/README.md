@@ -150,8 +150,8 @@ We provide industry-specific AI solutions for:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuffixMind&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuffixMind&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidhyaashu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhyaashu&layout=compact&theme=radical)
 
 </div>
 
@@ -183,10 +183,10 @@ We welcome contributions from the community! Here's how you can get involved:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guffixmind@gmail.com)
 
 ### 📧 Contact Information
-- **General:** hello@guffixmind.ai
-- **Partnerships:** enterprise@guffixmind.ai
-- **Research:** research@guffixmind.ai
-- **Support:** support@guffixmind.ai
+**General:** hello@guffixmind.ai
+**Partnerships:** enterprise@guffixmind.ai
+**Research:** research@guffixmind.ai
+**Support:** support@guffixmind.ai
 
 </div>
 

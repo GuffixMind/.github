@@ -183,9 +183,13 @@ We welcome contributions from the community! Here's how you can get involved:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guffixmind@gmail.com)
 
 ### 📧 Contact Information
+
 **General:** hello@guffixmind.ai
+
 **Partnerships:** enterprise@guffixmind.ai
+
 **Research:** research@guffixmind.ai
+
 **Support:** support@guffixmind.ai
 
 </div>
